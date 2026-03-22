@@ -44,7 +44,7 @@ Multiple topologies were tested to find the optimal balance between bias and var
 * **Linear Regression (Baseline)**: Used strictly as a baseline to measure the performance gains achieved by the complex ensemble models.
 
 ### 5. Deployment (Streamlit Dashboard)
-The final models and scalers were serialized (`.pkl`) and integrated into a Python-based web application. The UI allows users to input custom market parameters and view the system's T+1 projection and structural analysis.
+The final models and scalers were serialized (`.pkl`) and integrated into a Python-based web application. The UI allows users to input custom market parameters and view the system's projection and structural analysis.
 
 ## Repository Structure
 
