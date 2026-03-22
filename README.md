@@ -2,7 +2,6 @@
 
 **Author:** Abdelhafid Ibn Mhand  
 **Module:** Intelligent Systems  
-**Live Application:** [open application](https://github.com/Hvllvix/basic-bitcoin-prediction)
 
 ## Project Overview
 
